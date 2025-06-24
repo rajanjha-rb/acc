@@ -126,21 +126,21 @@ const App = () => {
           </p>
           <div className="flex justify-center gap-6 text-2xl text-white">
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/codocu_official/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaInstagram className="hover:text-pink-500 transition" />
             </a>
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/profile.php?id=61577022802153"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaFacebookF className="hover:text-blue-600 transition" />
             </a>
             <a
-              href="https://wa.me/9800000000"
+              href="https://wa.me/9779762717552"
               target="_blank"
               rel="noopener noreferrer"
             >
