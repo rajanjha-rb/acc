@@ -111,7 +111,7 @@ const App = () => {
           it online with premium visuals and smooth user experience.
         </p>
         <motion.a
-          href="https://wa.me/9800000000"
+          href="https://wa.me/9779762717552"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}
